@@ -13,6 +13,7 @@ defineProps<{
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
     </h3>
   </div>
+  <div class="text-red-700 font-extrabold">Test Vue</div>
 </template>
 
 <style scoped>
